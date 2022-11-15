@@ -21,7 +21,9 @@ Researchers at the Urban Institute, American University, George Mason University
 
 <br>
 
-The project received funding from two sources to develop the panel, launch the survey, and to begin developing the data-sharing platform: 
+### Project Fundin 
+
+The project has received support to develop the panel, launch the survey, and to begin developing the data-sharing platform from two sources: 
 
 * NSF Human Networks and Data Science Infrastructure Grant
 * The Generosity Commission, a project of the Giving Institute and Giving USA Foundation
