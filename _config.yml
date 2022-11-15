@@ -9,7 +9,7 @@ github:
 navbar:
 - title: Home
   url: index
-- title: Data
+- title: Data Access
   url: data
 - title: The Survey
   url: survey
