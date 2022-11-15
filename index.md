@@ -13,9 +13,11 @@ Researchers at the Urban Institute, American University, George Mason University
 <a href="http://nonprofitdataproject.org/data" class="button"> DATA </a> <a href="http://nonprofitdataproject.org/survey" class="button"> SURVEY </a> <a href="http://nonprofitdataproject.org/about" class="button"> ABOUT </a>
 </div>
 
+<br>
+
 The project received funding from two sources to develop the panel, launch the survey, and to begin developing the data-sharing platform: 
 
-* The National Science Foundation Human Networks and Data Science Infrastructure Program 
+* NSF Human Networks and Data Science Infrastructure Grant
 * The Generosity Commission, a project of the Giving Institute and Giving USA Foundation
 
 
