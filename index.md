@@ -9,27 +9,29 @@ title: 'The Nonprofit Data Project'
 
 Researchers at the Urban Institute, American University, George Mason University, and Georgia Institute of Technology have partnered to improve data about the nonprofit sector and access to those data. The collaboration is working to improve research on the sector, share what is learned with the nonprofit and research communities, and help policymakers and the public make informed decisions that affect or support nonprofit organizations.
 
+<br>
+<hr>
+<br>
+
+<a href="http://nonprofitdataproject.org/data" class="button"> DATA </a> <a href="http://nonprofitdataproject.org/survey" class="button"> SURVEY </a> <a href="http://nonprofitdataproject.org/about" class="button"> ABOUT </a>
+
+<br>
+<hr>
+<br>
+
 The project received funding from two sources to develop the panel, launch the survey, and to begin developing the data-sharing platform: 
 
 * The National Science Foundation Human Networks and Data Science Infrastructure Program 
 * The Generosity Commission, a project of the Giving Institute and Giving USA Foundation
 
 
-<a href="http://nonprofitdataproject.org/data" class="button"> DATA </a>
 
-<a href="http://nonprofitdataproject.org/survey" class="button"> SURVEY </a>
-
-<a href="http://nonprofitdataproject.org/about" class="button"> ABOUT </a>
-
-<br>
-<hr>
-<br>
 
 
 
   
 
-## The National Survey of Nonprofit Trends and Impacts
+## Survey of Nonprofit Trends and Impacts
 
 The survey component of the project is a long-term initiative to collect longitudinal data from a nationally representative group of 501(c)(3) nonprofit organizations in the United States.  
 
