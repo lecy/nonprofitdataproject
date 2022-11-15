@@ -23,11 +23,11 @@ The project received funding from two sources to develop the panel, launch the s
 
 ## Survey of Nonprofit Trends and Impacts
 
-The survey component of the project is a long-term initiative to collect longitudinal data from a nationally representative group of 501(c)(3) nonprofit organizations in the United States.  
+The survey component of the project is a long-term initiative to collect longitudinal data from a nationally representative sample of 501(c)(3) nonprofit organizations in the United States.  
 
-By collecting data from a nationally representative sample of nonprofit organizations, the survey will help people better understand how changes in giving and volunteering have affected nonprofit organizations and the people and communities they serve. Each year of the data will be available in a public use format and a restricted use format for analysis by others.
+By collecting data from a nationally representative sample of nonprofit organizations, the survey will help people better understand how changes in giving and volunteering have affected nonprofit organizations and the people and communities they serve. 
 
-The first two waves of the survey are complete:  
+Each year of the data will be available in a public use format and a restricted use format for analysis by others. The first two waves of the survey are complete:  
 
 **Year 1: January-April 2021**
 
