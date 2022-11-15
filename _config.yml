@@ -11,8 +11,10 @@ navbar:
   url: index
 - title: Data
   url: data
-- title: Survey
+- title: The Survey
   url: survey
+- title: The Platform
+  url: platform
 - title: About
   url: about
 
