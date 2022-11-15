@@ -11,9 +11,7 @@ navbar:
   url: index
 - title: Data
   url: data
-- title: Sampling Framework
-  url: sample
-- title: Survey Instrument
+- title: Survey
   url: survey
 - title: About
   url: about
