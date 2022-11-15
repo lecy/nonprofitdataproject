@@ -40,6 +40,13 @@ p, body {
     line-height: 1.45; 
 }
 
+strong {
+    font-family: "Quarto A", "Quarto B", Georgia, Times, "Times New Roman", "Microsoft YaHei New", "Microsoft Yahei", serif;
+    font-weight: bolder;
+    color: #0a4c6a;
+}
+    
+
 
 
 
