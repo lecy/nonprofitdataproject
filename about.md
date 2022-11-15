@@ -7,7 +7,18 @@ title: 'About'
 
 
 
-## About the Data Explorer
+## Project History
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[INSERT TIMELINE]
+
+In 2015, the key collaborators at Urban Institute, American University, and George Mason University began having conversations with other scholars and institutions around the country about the piecemeal nature of most research on nonprofit organizations, which could not be aggregated to understand the important contributions and needs of nonprofit organizations both across the United States and within communities. These early conversations with more than 70 researchers from around the country were supported by American University, the Urban Institute, and in-kind contributions from the Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA). 
+
+In 2020 the project received funding from two sources to develop the panel, launch the survey, and to begin developing the data-sharing platform: 
+
+* The National Science Foundation Human Networks and Data Science Infrastructure Program 
+* The Generosity Commission, a project of the Giving Institute and Giving USA Foundation
+
+## Funding Sources 
+
+## Research Team 
 
