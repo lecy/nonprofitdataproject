@@ -7,8 +7,6 @@ github:
 ###
 
 navbar:
-- title: Home
-  url: index
 - title: Data Access
   url: data
 - title: The Survey
