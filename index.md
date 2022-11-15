@@ -9,9 +9,13 @@ title: 'The Nonprofit Data Project'
 
 Researchers at the Urban Institute, American University, George Mason University, and Georgia Institute of Technology have partnered to improve data about the nonprofit sector and access to those data. The collaboration is working to improve research on the sector, share what is learned with the nonprofit and research communities, and help policymakers and the public make informed decisions that affect or support nonprofit organizations.
 
+<br>
+
 <div class="center">
   
-<a href="http://nonprofitdataproject.org/data" class="button"> DATA </a> <a href="http://nonprofitdataproject.org/survey" class="button"> SURVEY </a> <a href="http://nonprofitdataproject.org/about" class="button"> ABOUT </a>
+<a href="http://nonprofitdataproject.org/data" class="button"> DATA </a> 
+<a href="http://nonprofitdataproject.org/survey" class="button"> SURVEY </a>
+<a href="http://nonprofitdataproject.org/about" class="button"> ABOUT </a>
   
 </div>
 
