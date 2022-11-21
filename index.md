@@ -12,21 +12,24 @@ Researchers at the Urban Institute, American University, George Mason University
 <br>
 
 <div class="center">
-  
-<a href="http://nonprofitdataproject.org/data" class="button"> DATA </a> 
+   
 <a href="http://nonprofitdataproject.org/survey" class="button"> SURVEY </a>
-<a href="http://nonprofitdataproject.org/about" class="button"> ABOUT </a>
+<a href="http://nonprofitdataproject.org/data" class="button"> DATA </a>
+<a href="http://nonprofitdataproject.org/platform" class="button"> PLATFORM </a>
   
 </div>
 
 <br>
 
-### Project Fundin 
 
-The project has received support to develop the panel, launch the survey, and to begin developing the data-sharing platform from two sources: 
 
-* NSF Human Networks and Data Science Infrastructure Grant
-* The Generosity Commission, a project of the Giving Institute and Giving USA Foundation
+## High-Level Overview Here
+
+[ infographic on timeline ]
+
+<br>
+<hr>
+<br>
 
 
 ## Survey of Nonprofit Trends and Impacts
@@ -49,7 +52,7 @@ The second wave of the survey was sent to **X,XXX** nonprofit organizations and 
 
 ## The Data Platform
 
-The Nonprofit Organization Research Panel Project (NORPP) is funded by the National Science Foundation Human Networks and Data Science Infrastructure Program (collaborative award numbers 2024310, 2024307, 2024320, and 2024330 to American University, George Mason University, Georgia Institute of Technology, and the Urban Institute). 
+The Nonprofit Organization Research Panel Project (NORPP) is funded by the National Science Foundation Human Networks and Data Science Infrastructure Program (collaborative award numbers 2024310, 2024307, 2024320, and 2024330 to [American University](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2024310&HistoricalAwards=false), George Mason University, Georgia Institute of Technology, and the [Urban Institute](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2024330&HistoricalAwards=false)). 
 
 The team is working to create a publicly accessible, internet-based, and collaborative research platform that will lower the costs of collecting and sharing high-quality, multiyear data on nonprofit organizations and their activities. The project establishes benchmarks on nonprofit management practices and performance over time.
 
