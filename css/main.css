@@ -92,4 +92,6 @@ strong {
 blockquote {
     border-left: 4px solid #1696d2;
     margin-left: 10px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
