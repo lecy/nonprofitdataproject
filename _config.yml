@@ -9,7 +9,7 @@ github:
 navbar:
 - title: The Survey
   url: survey
-- title: Data Access
+- title: Survey Data Access
   url: data
 - title: NCCS Catalog
   url: nccs
