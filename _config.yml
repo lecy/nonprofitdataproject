@@ -7,10 +7,14 @@ github:
 ###
 
 navbar:
-- title: Data Access
-  url: data
 - title: The Survey
   url: survey
+- title: Data Access
+  url: data
+- title: NCCS Catalog
+  url: nccs
+- title: Publications
+  url: pubs
 - title: The Platform
   url: platform
 - title: About
