@@ -14,7 +14,7 @@ title: 'Publications'
 
 > Fact Sheet on  Diversity and Representation in the Nonprofit Sector  <a href="https://www.urban.org/sites/default/files/2021/11/05/national_findings_on_diversity_and_representation_in_the_nonprofit_sector.pdf" class="button3"> PDF </a>
 
-> Project Updates @ Urban Institute <a href="http://nonprofitdataproject.org/survey](https://www.urban.org/partnering-understand-long-term-trends-nonprofit-organization-activities-and-needs" class="button3"> LINK </a>
+> Project Updates @ Urban Institute <a href="https://www.urban.org/partnering-understand-long-term-trends-nonprofit-organization-activities-and-needs" class="button3"> LINK </a>
 
 ----------
 
