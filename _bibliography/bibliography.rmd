@@ -1,0 +1,15 @@
+---
+title: "bibliography"
+output:
+  html_document:
+    keep_md: yes
+date: "`r Sys.Date()`"
+bibliography: references.bib 
+nocite: '@*'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
