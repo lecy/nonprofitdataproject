@@ -87,3 +87,8 @@ strong {
 }
 
 .center {text-align: center;}
+
+
+blockquote {
+    border-left: 10px solid #0a4c6a;
+}
