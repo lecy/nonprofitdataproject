@@ -26,7 +26,7 @@ navbar:
 # jekyll scholar plugin
 # https://gist.github.com/roachhd/ed8da4786ba79dfc4d91
 
-gems: ['jekyll/scholar']
+plugins: ['jekyll/scholar']
 
 scholar:
   style: apa
