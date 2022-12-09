@@ -90,5 +90,6 @@ strong {
 
 
 blockquote {
-    border-left: 10px solid #0a4c6a;
+    border-left: 4px solid #1696d2;
+    margin-left: 10px;
 }
