@@ -131,3 +131,8 @@ padding-left:1em;
 div.csl-indent {
 margin-left: 2em;
 }
+
+div.cite {
+text-indent:-2em;
+margin-bottom: 10px;
+}
