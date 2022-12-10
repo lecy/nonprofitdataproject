@@ -31,4 +31,4 @@ title: 'Publications'
 
 {% include_relative _bibliography/bibliography.html %}
 
-
+<!--   see the _bibliography folder for instructions on updating   -->
