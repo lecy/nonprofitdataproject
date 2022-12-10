@@ -27,12 +27,8 @@ title: 'Publications'
 ## Research Citing the Nonprofit Trends Study 
 
 
-<a href="https://scholar.google.com/scholar?start=0&hl=en&as_sdt=20000005&sciodt=1,21&cites=1166513345463666613&scipsc=" class="button3"> View </a>
+<a href="https://scholar.google.com/scholar?start=0&hl=en&as_sdt=20000005&sciodt=1,21&cites=1166513345463666613&scipsc=" class="button3"> view </a>
 
-
-{% include bibliography.html %}
-
-------------
 
 {% include_relative _bibliography/bibliography.html %}
 
