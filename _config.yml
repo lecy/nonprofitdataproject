@@ -25,22 +25,8 @@ navbar:
 
 # jekyll scholar plugin
 # https://gist.github.com/roachhd/ed8da4786ba79dfc4d91
+# 
+# plugins: ['jekyll/scholar']
+# 
+# whitelist: ['jekyll/scholar']
 
-plugins: ['jekyll/scholar']
-
-whitelist: ['jekyll/scholar']
-
-scholar:
-  style: apa
-  locale: en
-  sort_by: none
-  order: ascending
-  source: ./_bibliography
-  bibliography: references.bib
-  bibliography_template: "{{reference}}"
-  replace_strings: true
-  join_strings:    true
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
-  query: "@*"
