@@ -26,8 +26,9 @@ title: 'Publications'
 
 <br> 
 
-<a href="https://scholar.google.com/scholar?start=0&hl=en&as_sdt=20000005&sciodt=1,21&cites=1166513345463666613&scipsc=" class="button3"> view </a> <h2>Research Citing the Nonprofit Trends Study</h2>
+## Research Citing the Nonprofit Trends Study 
 
+<a href="https://scholar.google.com/scholar?start=0&hl=en&as_sdt=20000005&sciodt=1,21&cites=1166513345463666613&scipsc=" class="button3"> VIEW </a>
 
 {% include_relative _bibliography/bibliography.html %}
 
