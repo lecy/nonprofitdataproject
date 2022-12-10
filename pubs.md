@@ -34,6 +34,6 @@ title: 'Publications'
 
 ------------
 
-{% include_relative bibliography/bibliography.html %}
+{% include_relative _bibliography/bibliography.html %}
 
 
