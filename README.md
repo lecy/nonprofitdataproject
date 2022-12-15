@@ -5,6 +5,8 @@ For personal reference - useful `{{ liquid tag }}` site variables:
 
 https://stackoverflow.com/questions/74188444/what-site-variables-can-i-use-github-pages
 
+https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
+
 For example, to list a project's name, you might write: 
 
 ```
